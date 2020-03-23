@@ -1,0 +1,87 @@
+html {
+    font-family: 'Arial';
+    background-color:#2e3031 ;
+    text-align: center;
+    
+  }
+  
+  .container{
+    border: 0px solid red;
+    border-radius: 15px;
+    height: 300px;
+    width: 500px;
+    margin: 20px;
+    justify-content:center;
+  }
+
+  .title{
+    
+    height: 40px;
+    width: 500px;
+    background-color: red;
+    border-radius: 20px 20px 0px 0px;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+    color: white
+    
+    
+  
+  }
+
+  .title2{
+    height: 25px;
+    width: 500px;
+    background-color: red;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 25px;
+    color:white
+  }
+
+  .cornelius{
+    background-color: white;
+    width: 500px;
+    height: 200px;
+    line-height: 200px;
+    font-family: "Snell Roundhand", Cursive, sans-serif;
+    font-size: 70px;
+    
+   
+  }
+
+  .base{
+    background-color: red;
+    height: 35px;
+    width: 100%;
+    border-radius: 0px 0px 20px 20px;
+  }
+
+  .my_input{
+
+      width: 500px;
+      padding: 40px 40px;
+      margin: 30px;
+      display: inline-block;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      margin: 40px;
+      
+    }
+    
+    
+
+  .submit{
+    
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+  }
+
+  .clknfll{
+    padding: 30px 30px;
+    position: sticky;
+  }
